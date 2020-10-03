@@ -1,1 +1,3 @@
 this is third.txt file for the purpose of revert changes.
+
+Some more changes in this file third.txt
